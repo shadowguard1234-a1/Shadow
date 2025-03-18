@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SGO - Shadow Guard Operations</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Shadow Guard Operations (SGO)</h1>
+        <p>Your ultimate guide to Shadow Guard Operations.</p>
+    </header>
+    <main>
+        <section>
+            <h2>About SGO</h2>
+            <p>SGO is a tactical operations game that enhances your gameplay with advanced features and optimized controls.</p>
+        </section>
+        <section>
+            <h2>Features</h2>
+            <ul>
+                <li>Stealth Hitbox Expansion</li>
+                <li>ESP with Advanced Toggle</li>
+                <li>God Mode & Infinite Jump</li>
+                <li>And much more!</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 SGO. All rights reserved.</p>
+    </footer>
+</body>
+</html>
